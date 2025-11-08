@@ -39,7 +39,7 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/E2EDataEngineering.git
+    git clone (https://github.com/kien3007/SparkStreaming-LLM-Kafka-YelpDataset.git)
     ```
 
 2. Navigate to the project directory:
