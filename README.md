@@ -44,7 +44,7 @@ The project is designed with the following components:
 
 2. Navigate to the project directory:
     ```bash
-    cd E2EDataEngineering
+    cd SparkStreaming-LLM-Kafka-YelpDataset
     ```
 
 3. Run Docker Compose to spin up the spark cluster:
